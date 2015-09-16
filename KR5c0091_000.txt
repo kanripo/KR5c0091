@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 道德眞經註
+#+DATE: 2015-08-28 21:37:44
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 0
+
+
